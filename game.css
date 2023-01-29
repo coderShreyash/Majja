@@ -19,7 +19,6 @@ body {
   height: 100%;
   margin: 0;
   scroll-behavior:smooth;
-  overflow-y: hidden;
   background:linear-gradient(#fad961,#f76B1C) 
 }
 
